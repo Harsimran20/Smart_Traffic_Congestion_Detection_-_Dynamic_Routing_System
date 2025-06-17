@@ -17,11 +17,11 @@ This project leverages data science and machine learning to detect traffic conge
 ## 📁 Project Structure
 
 📦 Traffic-Congestion-Detection
-│
-├── 📜 traffic_data_sample.csv # Source dataset
-├── 📊 model_training.py # Training and evaluation scripts
-├── 🌐 traffic_congestion_map.html # Output interactive map
-├── 🧾 README.md # Project documentation
+
+- ├── 📜 traffic_data_sample.csv # Source dataset
+- ├── 📊 model_training.py # Training and evaluation scripts
+- ├── 🌐 traffic_congestion_map.html # Output interactive map
+- ├── 🧾 README.md # Project documentation
 
 ---
 
