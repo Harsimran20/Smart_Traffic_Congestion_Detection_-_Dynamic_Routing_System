@@ -52,6 +52,7 @@ View the map:
 traffic_congestion_detailed_map.html
 
 📌 Sample Use Cases
+
 🚔 City Planning Departments: Optimize traffic light timing or reroute heavy traffic.
 
 🚗 Navigation Apps: Integrate congestion scoring into route suggestion logic.
